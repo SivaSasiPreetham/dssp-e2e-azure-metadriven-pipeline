@@ -1,0 +1,15 @@
+{
+	"name": "datafactorydssp",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "canadacentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "00f7aca1-47a9-43b2-8ec5-c546a9d61de9",
+		"tenantId": "0369dfc8-6c8b-49ee-a447-83cfd92cdc23"
+	}
+}
